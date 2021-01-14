@@ -1,0 +1,10 @@
+# Игнорируемые директории
+.idea/
+node_modules/
+bower_components/
+
+Thumbs.db
+Dekstop.ini
+.DS_Store
+
+package-lock.json

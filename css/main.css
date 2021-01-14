@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background: #f2f3f4;
+}
+.appform{
+    background: #fff;
+    padding: 1rem;
+    margin: 1rem auto;
+    max-width: 300px;
+}
+.appform__fieldset{
+    border: 0;
+}
+.appform__label{
+    display: block;
+}
